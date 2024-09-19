@@ -26,14 +26,12 @@ const messages = {
       featureFourDescription: 'Keeping up with the latest design and development technologies to ensure advanced market-ready solutions.',
       featureFiveTitle: 'Customer Satisfaction',
       featureFiveDescription: 'Achieving customer satisfaction by providing excellent technical support and tailored services for each project.',
-      cta: {
-        title: 'Your Digital Success Starts Here',
-        description: 'In a rapidly evolving digital world, we pave your way to success. We take your ideas and transform them into vibrant realities through professional websites and stores that reflect your identity and fulfill your ambitions. With every design we deliver, we place creativity and innovation at the heart of every project to ensure a unique user experience and an unforgettable digital footprint. Let us create a bright digital future for you.',
+        ourmessage: 'Your Digital Success Starts Here',
+        themessage: 'In a rapidly evolving digital world, we pave your way to success. We take your ideas and transform them into vibrant realities through professional websites and stores that reflect your identity and fulfill your ambitions. With every design we deliver, we place creativity and innovation at the heart of every project to ensure a unique user experience and an unforgettable digital footprint. Let us create a bright digital future for you.',
         facebook: 'Facebook',
         linkedin: 'LinkedIn',
         whatsapp: 'WhatsApp',
         contact_us: 'Contact Us Now'
-      }
     }
   },
   ar: {
@@ -60,14 +58,12 @@ const messages = {
       featureFourDescription: 'مواكبة أحدث التقنيات في مجال التصميم والتطوير لضمان تقديم حلول متقدمة تواكب السوق.',
       featureFiveTitle: 'رضا العملاء',
       featureFiveDescription: 'تحقيق رضا العملاء من خلال توفير دعم فني ممتاز وخدمات مخصصة لكل مشروع.',
-      cta: {
-        title: 'طريق نجاحك الرقمي يبدأ هنا',
-        description: 'في عالم رقمي لا يتوقف عن التطور، نصنع لك طريقًا نحو النجاح. نأخذ أفكارك ونحوّلها إلى واقع نابض بالحياة عبر مواقع إلكترونية ومتاجر احترافية تعكس هويتك وتلبي طموحاتك. مع كل تصميم نقدمه، نضع الإبداع والابتكار في قلب كل مشروع لضمان تجربة مستخدم فريدة وبصمة رقمية لا تُنسى. دعنا نصنع لك غدًا رقمياً متألقًا.',
-        facebook: 'فيسبوك',
-        linkedin: 'لينكدإن',
-        whatsapp: 'واتساب',
-        contact_us: 'تواصل معنا الآن'
-      }
+      ourmessage: 'طريق نجاحك الرقمي يبدأ هنا',
+      themessage: 'في عالم رقمي لا يتوقف عن التطور، نصنع لك طريقًا نحو النجاح. نأخذ أفكارك ونحوّلها إلى واقع نابض بالحياة عبر مواقع إلكترونية ومتاجر احترافية تعكس هويتك وتلبي طموحاتك. مع كل تصميم نقدمه، نضع الإبداع والابتكار في قلب كل مشروع لضمان تجربة مستخدم فريدة وبصمة رقمية لا تُنسى. دعنا نصنع لك غدًا رقمياً متألقًا.',
+      facebook: 'فيسبوك',
+      linkedin: 'لينكدإن',
+      whatsapp: 'واتساب',
+      contact_us: 'تواصل معنا الآن'
     }
   }
 };

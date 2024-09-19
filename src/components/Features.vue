@@ -1,5 +1,5 @@
 <template>
-  <section id="about-company" class="relative bg-white py-20 overflow-hidden">
+  <section id="features" class="relative bg-white py-20 overflow-hidden">
     <div class="absolute inset-0 overflow-hidden w-full h-full">
       <svg class="absolute top-0 left-0 w-full h-full" viewBox="0 0 1440 320" fill="none" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="none">
         <!-- First Wave (Darker Blue) -->

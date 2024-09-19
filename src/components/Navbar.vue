@@ -17,7 +17,6 @@
       <!-- Desktop Menu -->
       <div class="hidden md:flex space-x-8">
         <a href="#features" class="text-gray-600 hover:text-blue-600 transition duration-300">{{ $t('message.features') }}</a>
-        <a href="#testimonials" class="text-gray-600 hover:text-blue-600 transition duration-300">{{ $t('message.testimonials') }}</a>
         <a href="#cta" class="text-gray-600 hover:text-blue-600 transition duration-300">{{ $t('message.getStartedCTA') }}</a>
 
         <!-- Language Switcher -->
@@ -45,7 +44,6 @@
           <!-- Menu Links -->
           <div class="mt-6 px-4">
             <a href="#features" class="block py-2 text-gray-600 hover:text-blue-600">{{ $t('message.features') }}</a>
-            <a href="#testimonials" class="block py-2 text-gray-600 hover:text-blue-600">{{ $t('message.testimonials') }}</a>
             <a href="#cta" class="block py-2 text-gray-600 hover:text-blue-600">{{ $t('message.getStartedCTA') }}</a>
 
             <!-- Language Switcher -->

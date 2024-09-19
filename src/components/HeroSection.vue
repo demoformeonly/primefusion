@@ -19,7 +19,7 @@
       </p>
 
       <!-- Call to Action Button -->
-      <a href="#services" class="mt-6 inline-block bg-gradient-to-r from-[#245494] to-[#182d63] text-white font-semibold py-3 px-8 rounded-full shadow-xl transition duration-300 ease-in-out hover:bg-[#182d63] transform hover:scale-105 hover:shadow-2xl">
+      <a href="#cta" class="mt-6 inline-block bg-gradient-to-r from-[#245494] to-[#182d63] text-white font-semibold py-3 px-8 rounded-full shadow-xl transition duration-300 ease-in-out hover:bg-[#182d63] transform hover:scale-105 hover:shadow-2xl">
         {{ $t('message.getStarted') }}
       </a>
     </div>
